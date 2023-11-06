@@ -1,6 +1,6 @@
 # Custom Cursor with GSAP and SCSS
 
-![Preview](Interface.png)
+![Preview](https://github.com/flenex-io/Custom-Cursor/blob/main/interface.png)
 
 A simple project that demonstrates how to create a custom cursor using GSAP (GreenSock Animation Platform) and SCSS (Sassy CSS). This project provides an example of how you can implement a unique and interactive cursor for your website or application.
 
