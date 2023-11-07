@@ -17,4 +17,4 @@ A simple project that demonstrates how to create a custom cursor using GSAP (Gre
    cd Custom-Cursor
    ```
 
-3. Run the project using live server
+3. Run the project
